@@ -1,1 +1,6 @@
 transformer/
+outsource-medjool/*.xlsx
+!outsource-medjool/output-template.xlsx
+outsource-medjool/*.exe
+outsource-medjool/*.txt
+.vscode/
